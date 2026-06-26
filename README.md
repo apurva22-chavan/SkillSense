@@ -125,29 +125,5 @@ http://localhost:5173/
 - Cloud Database Integration
 - Deployment on AWS/Vercel
 
----
-
- 📸 Screenshots
-
-> Add screenshots of your application here.
-
-Example:
-
-- Home Page
-- Resume Upload
-- Analytics Dashboard
-- Career Path Recommendation
-- Certifications Page
 
 
- ⭐ Project Status
-
-🚧 Currently Under Development
-
-New features and AI capabilities are being added continuously.
-
----
-
- 📄 License
-
-This project is developed for educational, research, and portfolio purposes.
